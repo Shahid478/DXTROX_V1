@@ -22,7 +22,7 @@ Click WA logo to Join Support Group 👇👇
     <br>
 <br>
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amal-dx&repo=DXTROX_V1&theme=nightowl)](https://github.com/amal-dx/DXTROX_V1)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amal-dx&repo=DXTROX_V1&theme=nightowl)](https://github.com/Shahid478/DXTROX_V1)
   </div>
     
 ## Setup
@@ -30,7 +30,7 @@ Click WA logo to Join Support Group 👇👇
 
 <div align="center">
   
-[![SETUP](https://www.linkpicture.com/q/dx.png)](https://github.com/terror-boy/Dxtrox-v-installer)
+[![SETUP](https://www.linkpicture.com/q/dx.png)](https://github.com/Shahid478/Dxtrox-v-installer)
  
  
   
